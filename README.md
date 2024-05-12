@@ -1,4 +1,4 @@
-# malicious-drupal-7-plugin
+# A Malicious Drupal 7 plugin for use in CTFs
 Modified Drupal 7 plugin that includes PHP reverse shell (all borrowed code, credits in the README)
 Install module via admin screen, then call:
 
