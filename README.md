@@ -6,4 +6,7 @@ http://SITE_ROOT/sites/all/modules/shell/php-reverse-shell.php
 
 Edit php-reverse-shell.php beforehand to point to remote system to send shell.
 
-PHP reverse shell shamelessly stolen from pentestmonkey <A href="https://github.com/pentestmonkey/php-reverse-shell">https://github.com/pentestmonkey/php-reverse-shell</a>.  Module stolen from Simple Password Reset <A href="https://www.drupal.org/project/simple_pass_reset/releases/7.x-1.6">https://www.drupal.org/project/simple_pass_reset/releases/7.x-1.6</a>.  Please use responsibly and legally.
+PHP reverse shell shamelessly stolen from pentestmonkey <A href="https://github.com/pentestmonkey/php-reverse-shell">https://github.com/pentestmonkey/php-reverse-shell</a>.
+Module template/code stolen from Simple Password Reset <A href="https://www.drupal.org/project/simple_pass_reset/releases/7.x-1.6">https://www.drupal.org/project/simple_pass_reset/releases/7.x-1.6</a>.
+
+Please use responsibly and legally.
