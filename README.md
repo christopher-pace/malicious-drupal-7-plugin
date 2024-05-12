@@ -1,5 +1,6 @@
 # A Malicious Drupal 7 plugin for use in CTFs
 Modified Drupal 7 plugin that includes PHP reverse shell (all borrowed code, credits in the README)
+
 Install module via admin screen, then call:
 
 http://SITE_ROOT/sites/all/modules/shell/php-reverse-shell.php
